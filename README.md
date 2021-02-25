@@ -6,3 +6,4 @@ lady
 monday
 tuseday
 Wednesday
+Thursday
