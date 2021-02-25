@@ -5,4 +5,4 @@ noisydy
 lady
 monday
 tuseday
-Sunday
+Wednesday
