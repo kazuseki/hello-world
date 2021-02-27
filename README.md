@@ -16,3 +16,4 @@
 
 - dereisiout
 - bokumon
+- doredore
