@@ -1,11 +1,12 @@
 # hello-world
-Sloppy
-roughly
-noisydy
-lady
-monday
-tuseday
-Wednesday
-Thursday
-Friday
-Saturday
+
+- Sloppy
+- roughly
+- noisydy
+- lady
+- monday
+- tuseday
+- Wednesday
+- Thursday
+- Friday
+- Saturday
