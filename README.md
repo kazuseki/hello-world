@@ -11,3 +11,5 @@
 - Friday
 - Saturday
 - Sunday
+- test
+- doitu
