@@ -7,3 +7,4 @@ monday
 tuseday
 Wednesday
 Thursday
+Friday
