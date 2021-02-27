@@ -10,3 +10,4 @@
 - Thursday
 - Friday
 - Saturday
+- Sunday
