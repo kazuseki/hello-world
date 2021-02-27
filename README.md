@@ -13,7 +13,3 @@
 - Sunday
 - test
 - doitu
-
-- dereisiout
-- bokumon
-- doredore
