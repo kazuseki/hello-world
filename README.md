@@ -13,3 +13,4 @@ Saturday
 Sunday  
 test  
 doitu  
+どれどれ  
