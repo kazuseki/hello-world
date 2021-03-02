@@ -6,3 +6,6 @@
 それそれ  
 どこどこ  
 inturrupt
+let-cherry-pic
+
+cherry-pic
